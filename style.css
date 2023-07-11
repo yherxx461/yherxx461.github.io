@@ -49,19 +49,25 @@ body {
 }
 
 .company {
-  font-size: 18px;
+  font-size: 15px;
+  font-style: italic;
 }
 
 .position {
-  font-style: italic;
-font-size: 15px;
-}
-  
-.degree {
 font-size: 15px;
   
 }
 .duration {
   font-size: 13px;
 }
+
+.college {
+  font-size: 17px;
+  font-style: italic;
   
+}
+
+.degree {
+  font-size: 14px;
+  font-style: 
+}
