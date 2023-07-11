@@ -37,7 +37,18 @@ body {
   color: #eeeeee
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 20%
-   
+    font-size: 14px;
+}
+
+ul {
+  margin-left: 20%
+    margin-right: 20%
+}
+
+.description {
+  font-size: 14px;
+  margin-left: 22%; 
+  margin-right: 20%
 }
 
 .exp-header {
@@ -46,28 +57,37 @@ body {
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
   background-color: #F7F2E0;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .company {
   font-size: 15px;
   font-style: italic;
+  margin-left: 20%;
+  margin-right: 20%
 }
 
 .position {
-font-size: 15px;
-  
+font-size: 14px;
+margin-left: 20%;
+  margin-right: 20%
 }
 .duration {
   font-size: 13px;
+    margin-left: 20%;
+  margin-right: 20%
 }
 
 .college {
   font-size: 17px;
   font-style: italic;
-  
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 .degree {
   font-size: 14px;
-  font-style: 
+  margin-left: 20%;
+  margin-right: 20%;
 }
